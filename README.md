@@ -1,4 +1,4 @@
-# DR_JCC
+# Energy and Reserve Dispatch with Distributionally Robust Joint Chance Constraints
 
 This folder contains the supporting files for the paper Energy and Reserve Dispatch with Distributionally Robust Joint Chance Constraints by Christos Ordoudis, Viet Anh Nguyen, Daniel Kuhn and Pierre Pinson.
 
