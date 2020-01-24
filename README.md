@@ -11,3 +11,5 @@ This folder contains the following files
 2. 'e-component.pdf': The electronic companion to the main paper. It contains the proof of the propositions in the paper, the formulation of the collective optimization model, the details about the numerical experiments plus the additional numerical results.
 
 3. The folder matlab contains the matlab files to the experiment. Due to large file size, the result of the numerical experiment is available upon request.
+
+4. 'latex.zip': The LaTeX source file for the main paper.
